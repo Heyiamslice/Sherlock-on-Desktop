@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo Enter the @ of who you want to search
+read varname
+echo Searching for $varname...
+
+python /home/kali/sherlock/sherlock/sherlock.py
+python sherlock.py $varname
