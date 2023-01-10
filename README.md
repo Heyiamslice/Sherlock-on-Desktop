@@ -5,7 +5,7 @@ Clone both .desktop and .txt files in your language
 
 
 
-Move .txt to sherlock folder | mv sherlocklauncherUS/BR.txt > path/to/sherlock
+Move .txt to sherlock install folder | mv sherlocklauncherUS/BR.txt > path/to/sherlock
 
 
 
