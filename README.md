@@ -13,4 +13,4 @@ Move launcher to desktop | mv Sherlock.desktop > path/to/Desktop
 
 
 
-Now exec the launcher and inset the @ you want to search
+Now exec the launcher and insert the @ you want to search
